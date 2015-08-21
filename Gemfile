@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'nokogiri'
+gem 'rake'
+gem 'mechanize'
+gem 'pry'
+gem 'pg'
+gem 'sinatra'
+gem 'sinatra-activerecord'
+gem 'sinatra-reloader'
+gem 'httparty'
+gem 'rsolr', '~> 1.0.12'
+gem 'net-http-persistent', '~> 2.9.4'
